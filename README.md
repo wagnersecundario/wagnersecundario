@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wagner
 - 👀 I’m interested in develop projects 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on a company
 - 📫 How to reach me: azevedowagner14@gmail.com
 - ⚡ Languages: Portuguese C2, English B1/B2, French A1
